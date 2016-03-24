@@ -1,0 +1,57 @@
+body{
+	max-width: 960px;
+	margin: 0 auto;
+	position: relative;
+    top: 20px;
+}
+td{
+	text-align: left;
+}
+
+
+a:link {color:#00AA00;}
+a:visited {color:#FF0000;} 
+a:hover {color:#FF6600;}  
+
+h3{color:green;font-size: 1.2em;}
+
+hr{border:1px #FF5511 dotted;} 
+
+
+.between_white{background-color:white;text-align: center;}
+
+.title_02_orange{font-size: 15px;color: #FF5511;}
+
+.green{background-color:#77FF00}
+
+.gray{background-color:#DDDDDD}
+
+.content{font-size: 0.7em;line-height: 1.7}
+
+#img0{
+	float: left;
+	margin-top: 20px;
+}
+
+#table1{
+
+	font-size:14px;
+
+}
+
+#img1{
+	position: relative;
+	top: 10px;
+}
+
+#img2{
+	position: relative;
+	left: 0;
+	top: 10px;
+}
+
+#blackbox{padding: 50px 50px;background-color:#000000;color: white;font-size: 12px; }
+
+#music_table{width:710px;}
+
+#footer_table{margin-left: 600px;margin-top: 0;}
